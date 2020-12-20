@@ -13,13 +13,13 @@ Pressets for eslint with typescript
 ### [NPM][npm]
 
 ```console
-$ npm install --save @benjaminnoufel/eslint-config-typescript
+$ npm install --save-dev @benjaminnoufel/eslint-config-typescript
 ```
 
 ### [Yarn][yarn]
 
 ```console
-$ yarn add @benjaminnoufel/eslint-config-typescript
+$ yarn add --dev @benjaminnoufel/eslint-config-typescript
 ```
 
 [npm]: https://www.npmjs.com/
